@@ -26,7 +26,7 @@ _If you find any, please let me know :)_
  *Click the pause button on the lower left of the Youtube video.*
 
  ##  Contributing:
- *Thanks to Udacity UConnect Reno and the Full Stack Web Development nanodegree course for helping me learn how to code this website.  The fresh_tomatoes.py and fresh_tomatoes.html files were provided from Udacity and altered by me*
+ *Thanks to Udacity UConnect Reno and the Full Stack Web Development nanodegree course for helping me learn how to code this website.  The fresh_tomatoes.py and fresh_tomatoes.html files were provided from Udacity to start from and then altered by me :)*
 
  ##  Licensing In
    MIT License - open source!
